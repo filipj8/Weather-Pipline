@@ -1,0 +1,9 @@
+*.DS_Store
+*.idea
+*.log
+*.csv
+*.db
+*.h5
+*.xls
+*.xlsx
+BinnedCsvs*
